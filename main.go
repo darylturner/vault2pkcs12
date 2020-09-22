@@ -7,7 +7,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/mitchellh/packer/builder/azure/pkcs12"
+	"github.com/hashicorp/packer/builder/azure/pkcs12"
 	"io/ioutil"
 	"log"
 	"os"
